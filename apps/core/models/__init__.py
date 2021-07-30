@@ -1,0 +1,1 @@
+from .timestamped_core_model import TimeStampedAbstractModel
